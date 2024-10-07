@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\OOP with C\u002B\u002B\\2) Read Only Property\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9874E329-6E8F-4BF5-A63B-69121F0B1A2E}|Read Only Property\\Read Only Property.vcxproj|C:\\Users\\pc\\OneDrive\\Desktop\\OOP with C\u002B\u002B\\2) Read Only Property\\Read Only Property\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9874E329-6E8F-4BF5-A63B-69121F0B1A2E}|Read Only Property\\Read Only Property.vcxproj|solutionrelative:Read Only Property\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\OOP with C\u002B\u002B\\2) Read Only Property\\Read Only Property\\Source.cpp",
+              "RelativeDocumentMoniker": "Read Only Property\\Source.cpp",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\OOP with C\u002B\u002B\\2) Read Only Property\\Read Only Property\\Source.cpp",
+              "RelativeToolTip": "Read Only Property\\Source.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T02:14:15.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
